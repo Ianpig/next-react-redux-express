@@ -1,1 +1,1 @@
-# next-react-redux-express
+# create-react-app with next
